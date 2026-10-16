@@ -1,0 +1,6 @@
+{
+  "name": "VOAI Lab",
+  "description": "100 câu luyện giải VOAI, giải thích từng câu và ghi chú hiệu chỉnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
